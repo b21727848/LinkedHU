@@ -1,0 +1,18 @@
+<svg id="Group_7435" data-name="Group 7435" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1155.162" height="507.572" viewBox="0 0 1155.162 507.572">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.033" y1="0.011" x2="1.019" y2="1.025" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ff8372"/>
+      <stop offset="0.335" stop-color="#fa52f4"/>
+      <stop offset="0.675" stop-color="#972fff"/>
+      <stop offset="1" stop-color="#4553ff"/>
+    </linearGradient>
+  </defs>
+  <path id="Path_44754" data-name="Path 44754" d="M0,0H1155.162V507.572H0Z" fill="url(#linear-gradient)"/>
+  <g id="Group_7436" data-name="Group 7436" transform="matrix(0.545, -0.839, 0.839, 0.545, 354.143, 332.747)">
+    <path id="Path_19" data-name="Path 19" d="M4.312,0A4.1,4.1,0,0,1,8.649,3.766l.108,31.287A4.04,4.04,0,0,1,4.446,38.8,4.1,4.1,0,0,1,.108,35.03L0,3.743A4.04,4.04,0,0,1,4.312,0Z" transform="matrix(0.545, 0.839, -0.839, 0.545, 51.274, 67.345)" fill="#fff"/>
+    <path id="Path_9" data-name="Path 9" d="M24.9,2.875a7.97,7.97,0,0,1,12.287.037L60.438,31.066a7.9,7.9,0,0,1-6.1,12.958L8,43.885A7.967,7.967,0,0,1,1.812,30.89Z" transform="matrix(0.545, 0.839, -0.839, 0.545, 73.52, 0)" fill="#fff"/>
+    <path id="Path_12" data-name="Path 12" d="M4.312,0A4.1,4.1,0,0,1,8.649,3.766l.108,31.287A4.04,4.04,0,0,1,4.446,38.8,4.1,4.1,0,0,1,.108,35.03L0,3.743A4.04,4.04,0,0,1,4.312,0Z" transform="matrix(0.545, 0.839, -0.839, 0.545, 34.761, 56.085)" fill="#fff"/>
+    <path id="Path_18" data-name="Path 18" d="M4.312,0A4.1,4.1,0,0,1,8.649,3.766l.108,31.287A4.04,4.04,0,0,1,4.446,38.8,4.1,4.1,0,0,1,.108,35.03L0,3.743A4.04,4.04,0,0,1,4.312,0Z" transform="matrix(0.545, 0.839, -0.839, 0.545, 32.537, 35.843)" fill="#fff"/>
+  </g>
+  <text id="LinkedHU" transform="translate(493.02 348.994)" fill="#fff" font-size="67" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="0" y="0">LinkedHU</tspan></text>
+</svg>
